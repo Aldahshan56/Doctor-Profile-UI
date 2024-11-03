@@ -1,4 +1,4 @@
-import 'package:app_1/widgets/title_item.dart';
+import 'package:app_1/doctor_widgets/title_item.dart';
 import 'package:flutter/material.dart';
 class DescriptionContainer extends StatelessWidget {
   const DescriptionContainer({super.key});

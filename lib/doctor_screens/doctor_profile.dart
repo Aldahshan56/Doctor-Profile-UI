@@ -1,7 +1,7 @@
-import 'package:app_1/widgets/custom_button.dart';
-import 'package:app_1/widgets/description_container.dart';
-import 'package:app_1/widgets/header.dart';
+import 'package:app_1/doctor_widgets/description_container.dart';
+import 'package:app_1/doctor_widgets/header.dart';
 import 'package:flutter/material.dart';
+import '../doctor_widgets/custom_button.dart';
 
 class DoctorProfile extends StatelessWidget {
   const DoctorProfile({super.key});
